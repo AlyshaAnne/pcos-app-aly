@@ -1,0 +1,21 @@
+# node / expo
+node_modules/
+.expo/
+.expo-shared/
+web-build/
+dist/
+build/
+*.log
+
+# platforms
+ios/Pods/
+ios/build/
+android/build/
+android/app/build/
+
+# env & misc
+.env
+.env.*.local
+.DS_Store
+*.tmp
+*.temp
